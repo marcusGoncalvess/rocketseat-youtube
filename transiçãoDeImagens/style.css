@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#slider {
+  width: 80%;
+  max-width: 500px;
+  height: 25vw;
+  max-height: 150px;
+  position: relative;
+}
+
+#slider img {
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 500ms;
+}
+
+#slider img.selected {
+  opacity: 1;
+}
