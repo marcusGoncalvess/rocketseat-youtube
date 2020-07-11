@@ -1,0 +1,40 @@
+header {
+    background-color: $primary-color;
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        width: 90%;
+        max-width: 980px;
+
+        margin: auto;
+    }
+
+    img {
+        width: 150px;
+        margin-left: 20px;
+        padding: 15px 0;
+    }
+
+    ul {
+        display: flex;
+
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+            color: white;
+            text-transform: uppercase;
+            font-size: 1.4rem;
+            padding: 2.4rem;
+            transition: all 250ms linear 0s;
+            &:hover {
+                background: rgba(255, 255, 255, 0.15);
+            }
+        }
+    }
+}
