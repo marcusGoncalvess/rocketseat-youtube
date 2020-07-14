@@ -14,3 +14,10 @@ Cada pasta é referente a uma aula. 😀
 
 ## 🎯 Aulas Front-End
 ### Dark Mode raiz com CSS e JavaScript
+<img src="./images/darkMode.gif">
+
+### Validação de forms customizada com HTML e JavaScript 
+<img src="./images/formAnimado.gif">
+
+### Transição de imagens com CSS3 e JavaScript puro
+<img src="./images/transicao.gif">
