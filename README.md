@@ -12,9 +12,13 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://www.youtube.com/watch?v=BwwOu29K6mE">Transição de imagens com CSS3 e JavaScript puro | Code/Drops #26</a> 17m
 - <a href="https://www.youtube.com/watch?v=GTMEuHxh8aQ">Validação de forms customizada com HTML e JavaScript | Code/Drops #32</a> 1h01m
 
-## 🎯 Aulas Front-End
+## 🎯 Gifs de algumas aulas
 ### Dark Mode raiz com CSS e JavaScript
 <img src="./images/darkMode.gif">
+
+### Node.js: Iniciando da teoria à prática
+Essa página simples foi construida usando Node e os dados estão sendo armazenos em arquivo JSON no back-end.
+<img src="./iniciandoComNodeJS/http/video/nodejs.gif">
 
 ### Validação de forms customizada com HTML e JavaScript 
 <img src="./images/formAnimado.gif">
