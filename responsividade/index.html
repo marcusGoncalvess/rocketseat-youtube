@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Document</title>
+    <title>Rocketseat</title>
     <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="responsive.css"
+      media="screen and (max-width: 768px)"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="print.css" media="print" />
   </head>
   <body>
     <header>
@@ -61,6 +69,21 @@
     <main>
       <section class="cards">
         <div class="card">
+          <!-- <picture class="image" alt="Imagem">
+            <source
+              media="(min-width: 768px)"
+              srcset="https://i.ytimg.com/vi/GykTLqODQuU/maxresdefault.jpg"
+            />
+            <source
+              media="(min-width: 320px)"
+              srcset="https://i.ytimg.com/vi/GykTLqODQuU/hqdefault.jpg"
+            />
+            <source
+              media="(min-width: 10px)"
+              srcset="https://i.ytimg.com/vi/GykTLqODQuU/mqdefault.jpg"
+            />
+            <img src="https://i.ytimg.com/vi/GykTLqODQuU/hqdefault.jpg" />
+          </picture> -->
           <div class="image">
             <img src="https://i.ytimg.com/vi/GykTLqODQuU/hqdefault.jpg" />
           </div>
@@ -76,8 +99,6 @@
         </div>
       </section>
     </main>
-
-
 
     <section id="form">
       <form action="">
@@ -97,16 +118,18 @@
         </div>
 
         <div class="form-group">
-          <input class="input-control" placeholder="Cidade" style="flex: 3 1" />
-          <input class="input-control" placeholder="Estado" style="flex: 1" />
-          <input class="input-control" placeholder="CEP" style="flex: 1" />
+          <input
+            class="input-control"
+            placeholder="Cidade"
+            style="flex: 3 1;"
+          />
+          <input class="input-control" placeholder="Estado" style="flex: 1;" />
+          <input class="input-control" placeholder="CEP" style="flex: 1;" />
         </div>
 
         <div class="form-group">
           <button type="submit" class="button">Save</button>
-
         </div>
-
       </form>
     </section>
 
@@ -135,5 +158,6 @@
     </div>
 
     <script src="scripts.js"></script>
+    <script src="./menu.js"></script>
   </body>
 </html>
