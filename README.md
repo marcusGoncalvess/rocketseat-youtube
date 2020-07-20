@@ -9,6 +9,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática | Mayk Brito</a> 36m
 - <a href="https://youtu.be/nhW70H9H4gU">Espaçamentos e a mágica do CSS Box Model | Masterclass #10</a> 39m
 - <a href="https://www.youtube.com/watch?v=DiXbJL3iWVs">Node.js: Iniciando da teoria à prática | Masterclass #11</a> 1h33m
+- <a href="https://youtu.be/H91DhKPjhPk">Responsividade na Prática | Masterclass #08</a> 1h30m
 - <a href="https://www.youtube.com/watch?v=BaI8dHUthLA">Dê super poderes ao CSS com SASS | Masterclass #15</a> 1h10m
 - <a href="https://www.youtube.com/watch?v=BwwOu29K6mE">Transição de imagens com CSS3 e JavaScript puro | Code/Drops #26</a> 17m
 - <a href="https://youtu.be/mxIhSTP6ddE">Utilizando UX para projetar uma aplicação do zero | Masterclass #09</a> 1h18min
