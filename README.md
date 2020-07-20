@@ -23,7 +23,12 @@ Cada pasta é referente a uma aula. 😀
 Essa página simples foi construida usando Node e os dados estão sendo armazenos em arquivo JSON no back-end.
 <img src="./iniciandoComNodeJS/http/video/nodejs.gif">
 
-### Validação de forms customizada com HTML e JavaScript 
+### Responsividade na Prática
+Aula sobre responsividade para reforçar conceitos importantes.
+<img src="./images/responsividade.gif">
+
+### Validação de forms customizada com HTML e JavaScript
+Nesta aula usamos o "required" do HTML para validar, porém fizemos algumas alterações em sua aparência.
 <img src="./images/formAnimado.gif">
 
 ### Transição de imagens com CSS3 e JavaScript puro
