@@ -8,6 +8,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://youtu.be/BvhYm0BOLvA">Dark Mode raiz com CSS e JavaScript | Code/Drops #24</a> 17m
 - <a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática | Mayk Brito</a> 36m
 - <a href="https://youtu.be/nhW70H9H4gU">Espaçamentos e a mágica do CSS Box Model | Masterclass #10</a> 39m
+- <a href="https://youtu.be/evBGq29wr08">Manipulando cores hexadecimais com JavaScript puro | Code/Drops #35</a> 44m
 - <a href="https://www.youtube.com/watch?v=DiXbJL3iWVs">Node.js: Iniciando da teoria à prática | Masterclass #11</a> 1h33m
 - <a href="https://youtu.be/H91DhKPjhPk">Responsividade na Prática | Masterclass #08</a> 1h30m
 - <a href="https://www.youtube.com/watch?v=BaI8dHUthLA">Dê super poderes ao CSS com SASS | Masterclass #15</a> 1h10m
@@ -30,6 +31,10 @@ Aula sobre responsividade para reforçar conceitos importantes.
 ### Validação de forms customizada com HTML e JavaScript
 Nesta aula usamos o "required" do HTML para validar, porém fizemos algumas alterações em sua aparência.
 <img src="./images/formAnimado.gif">
+
+### Manipulando cores hexadecimais com JavaScript puro
+Na criação de sites geralmente precismaos de cores mais claras ou mais escuras da cor principal do site, esta página pode ajudar com isso.
+<img src="./images/cores.gif">
 
 ### Transição de imagens com CSS3 e JavaScript puro
 <img src="./images/transicao.gif">
