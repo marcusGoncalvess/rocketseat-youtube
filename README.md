@@ -33,7 +33,7 @@ Nesta aula usamos o "required" do HTML para validar, porém fizemos algumas alte
 <img src="./images/formAnimado.gif">
 
 ### Manipulando cores hexadecimais com JavaScript puro
-Na criação de sites geralmente precismaos de cores mais claras ou mais escuras da cor principal do site, esta página pode ajudar com isso.
+Na criação de sites geralmente precismaos de cores mais claras ou mais escuras da cor principal do site, esta página pode ajudar com isso. <br>
 <img src="./images/cores.gif">
 
 ### Transição de imagens com CSS3 e JavaScript puro
