@@ -1,0 +1,39 @@
+#component {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.current-color {
+  width: 250px;
+  height: 250px;
+  border-radius: 5px;
+}
+
+label {
+  width: 185px;
+}
+
+label[for="color"] {
+  margin-top: 20px;
+  display: flex;
+}
+
+input[name="color"] {
+  border-radius: 5px;
+  border-color: #da1111;
+}
+
+input[name="newValue"] {
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0.192);
+}
+
+label[for="lumiance"],
+label[for="newValue"] {
+  margin-top: 10px;
+}
+
+input[name="lumiance"] {
+  width: 185px;
+}
