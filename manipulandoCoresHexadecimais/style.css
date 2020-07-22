@@ -8,6 +8,7 @@
   width: 250px;
   height: 250px;
   border-radius: 5px;
+  border: 1px solid black;
 }
 
 label {
@@ -21,7 +22,7 @@ label[for="color"] {
 
 input[name="color"] {
   border-radius: 5px;
-  border-color: #da1111;
+  border-color: rgba(87, 73, 73, 0.425);
 }
 
 input[name="newValue"] {
