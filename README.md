@@ -6,6 +6,7 @@ Cada pasta é referente a uma aula. 😀
 ## 🚀 Links das aulas assistidas
 - <a href="https://www.youtube.com/watch?v=ghTrp1x_1As">O que é API? REST e RESTful? | Mayk Brito</a> 34m
 - <a href="https://youtu.be/BvhYm0BOLvA">Dark Mode raiz com CSS e JavaScript | Code/Drops #24</a> 17m
+- <a href="https://youtu.be/OyTPNNIy3pc">Criando função Debounce do Zero com JavaScript | Code/Drops #25</a> 32m
 - <a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática | Mayk Brito</a> 36m
 - <a href="https://youtu.be/nhW70H9H4gU">Espaçamentos e a mágica do CSS Box Model | Masterclass #10</a> 39m
 - <a href="https://youtu.be/evBGq29wr08">Manipulando cores hexadecimais com JavaScript puro | Code/Drops #35</a> 44m
