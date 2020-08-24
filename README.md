@@ -8,6 +8,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://youtu.be/BvhYm0BOLvA">Dark Mode raiz com CSS e JavaScript | Code/Drops #24</a> 17m
 - <a href="https://youtu.be/OyTPNNIy3pc">Criando função Debounce do Zero com JavaScript | Code/Drops #25</a> 32m
 - <a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática | Mayk Brito</a> 36m
+- <a href="https://youtu.be/K5yYBJhix5A">Extraindo dados de outros sites com Puppeteer JS | Code/Drops #47</a> 26m
 - <a href="https://youtu.be/nhW70H9H4gU">Espaçamentos e a mágica do CSS Box Model | Masterclass #10</a> 39m
 - <a href="https://youtu.be/evBGq29wr08">Manipulando cores hexadecimais com JavaScript puro | Code/Drops #35</a> 44m
 - <a href="https://www.youtube.com/watch?v=DiXbJL3iWVs">Node.js: Iniciando da teoria à prática | Masterclass #11</a> 1h33m
@@ -18,6 +19,13 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://www.youtube.com/watch?v=GTMEuHxh8aQ">Validação de forms customizada com HTML e JavaScript | Code/Drops #32</a> 1h01m
 
 ## 🎯 Gifs de algumas aulas
+
+### Extraindo dados de outros sites com Puppeteer
+<img src="./images/extraindoDados.png" >
+Aqui usamos o puppeteer para pegar as imagens do meu instagram e colocar no site.
+Isso pode parecer bem simples, mas eu achei muito legal, com o puppeteer podemos entrar em qualquer site da web e pegar informações e fazer diversas ações.
+Parece um robô, quando surgir um tempo pretendo me aprofundar um pouco mais nessa ferramenta, achei super divertido.
+
 ### Dark Mode raiz com CSS e JavaScript
 <img src="./images/darkMode.gif">
 
