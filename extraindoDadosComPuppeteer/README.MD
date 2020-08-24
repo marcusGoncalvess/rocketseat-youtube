@@ -10,7 +10,7 @@ Significa garimpar dados de outros websites
 
 ## O que vamos fazer?
 
-Puxas últimas imagens do instagram, para adicionar na nossa página web.0000000000000000000
+Puxas últimas imagens do instagram, para adicionar na nossa página web.
 
 ## Desafios
 
