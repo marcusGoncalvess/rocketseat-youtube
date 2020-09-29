@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags HTML</title>
+
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <main class="bg-purple-100 min-h-screen">
+        <h1 class="shadow mb-4 
+                   text-lg 
+                   text-center 
+                   p-2 
+                   bg-white 
+                   text-purple-700
+                   font-extrabold">
+            7+ Tags HTML que Você Precisa Conhecer
+        </h1>
+
+        <section class="p-4">
+            <details>
+                <summary class="text-purple-900">Conheça os criadores</summary>
+                <section class="ml-4">
+                    <div class="text-purple-700">Diego Fernandes</div>
+                    <div class="text-purple-700">Mayk Britto</div>
+                </section>
+            </details>
+        </section>
+        <hr>
+
+        <section class="p-4">
+            <label class="text-purple-600 mr-2" for="weekday">Selecione o dia</label>
+            <input list="weekdays" type="text" name="weekday" id="weekday"
+                class="text-purple-800 pl-2 rounded shadow text-sm">
+            <datalist id="weekdays">
+                <option value="Domingo"></option>
+                <option value="Segunda"></option>
+                <option value="Terça"></option>
+                <option value="Quarta"></option>
+                <option value="Quinta"></option>
+                <option value="Sexta"></option>
+                <option value="Sabado"></option>
+            </datalist>
+        </section>
+
+        <hr>
+
+        <section class="p-4">
+            <h2 class="text-x1 text-purple-700-mb-2">Tarefas Diárias</h2>
+            <ul style="outline: none;" contenteditable class="text-sm ml-2">
+                <li> 1. Criar vídeos CodeDrops </li>
+                <li> 2. Criar vídeos para Curso </li>
+                <li> 3. Estudar </li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section class="p-4">
+            <blockquote>Você vai aprender
+                <mark class="text-purple-700 bg-purple-200">até o final da sua jornada</mark>
+                <br><cite>Mayk Brito</cite>
+            </blockquote>
+        </section>
+
+        <hr>
+
+        <section class="p-4">
+
+            <label for="avaiable" class="mr-2">Em cartaz</label>
+            <select name="avaiable" id="avaiable" class="shadow bg-white">
+                <optgroup label="19h00">
+                    <option value="1">Titanic</option>
+                    <option value="2">Moulin Rouge</option>
+                    <option value="3">Cidade de Deus</option>
+                </optgroup>
+                <optgroup label="20h00">
+                    <option value="4">Senhor dos anéis</option>
+                    <option value="5">Batman</option>
+                </optgroup>
+            </select>
+        </section>
+
+        <hr>
+
+        <section class="p-4">
+            <progress id="bar" value="0" max="100" class="w-full"></progress>
+        </section>
+
+        <section class="p-4">
+            <div class="p-4 bg-purple-600 text-white flex">
+                <label for="volume" class="mr-4">Range</label>
+                <input type="range" name="volume" id="volume" min="0" max="100">
+            </div>
+
+            <div class="p-4 bg-purple-600 text-white flex">
+                <label for="when" class="mr-4">Date</label>
+                <input type="date" name="when" id="when"
+                value="2020-09-22" min="2020-10-22" max="2020-12-22">
+            </div>
+
+            <div class="p-4 bg-purple-600 text-white flex">
+                <label for="hour" class="mr-4">Date</label>
+                <input type="hour" name="color" id="color">
+            </div>
+
+            <div class="p-4 bg-purple-600 text-white flex">
+                <label for="hour" class="mr-4">Date</label>
+                <input type="time" name="hour" id="hour" value="22:00" >
+            </div>
+        </section>
+    </main>
+</body>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        let
+            progress = 0,
+            incrementSpeed = 0.2,
+            progressBar = document.getElementById('bar'),
+            progressInterval = setInterval(() => {
+                progress += incrementSpeed;
+                progressBar.value = progress;
+
+                if (progress >= 100) {
+                    clearInterval(progressInterval);
+                }
+            }, 10);
+
+    });
+</script>
+
+</html>
