@@ -17,6 +17,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://www.youtube.com/watch?v=BwwOu29K6mE">Transição de imagens com CSS3 e JavaScript puro | Code/Drops #26</a> 17m
 - <a href="https://youtu.be/mxIhSTP6ddE">Utilizando UX para projetar uma aplicação do zero | Masterclass #09</a> 1h18min
 - <a href="https://www.youtube.com/watch?v=GTMEuHxh8aQ">Validação de forms customizada com HTML e JavaScript | Code/Drops #32</a> 1h01m
+- <a href="https://youtu.be/7pqp3IKyC0s">7 Tags HTML que Você Precisa Conhecer | Code/Drops #58</a> 19min
 
 ## 🎯 Gifs de algumas aulas
 
