@@ -6,6 +6,7 @@ Cada pasta é referente a uma aula. 😀
 ## 🚀 Links das aulas assistidas
 - <a href="https://youtu.be/7pqp3IKyC0s">7 Tags HTML que Você Precisa Conhecer | Code/Drops #58</a> 19min
 - <a href="https://youtu.be/OyTPNNIy3pc">Criando função Debounce do Zero com JavaScript | Code/Drops #25</a> 32m
+- <a href="https://youtu.be/FsCBw9X9U84">Como usar React Context (com Hooks)</a> 21m
 - <a href="https://youtu.be/BvhYm0BOLvA">Dark Mode raiz com CSS e JavaScript | Code/Drops #24</a> 17m
 - <a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática | Mayk Brito</a> 36m
 - <a href="https://www.youtube.com/watch?v=BaI8dHUthLA">Dê super poderes ao CSS com SASS | Masterclass #15</a> 1h10m
