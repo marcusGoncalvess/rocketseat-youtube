@@ -26,13 +26,6 @@ Cada pasta é referente a uma aula. 😀
 
 ## 🎯 Gifs de algumas aulas
 
-### Extraindo dados de outros sites com Puppeteer
-
-<img src="./images/extraindoDados.png" >
-Aqui usamos o puppeteer para pegar as imagens do meu instagram e colocar no site.
-Isso pode parecer bem simples, mas eu achei muito legal, com o puppeteer podemos entrar em qualquer site da web e pegar informações e fazer diversas ações.
-Parece um robô, quando surgir um tempo pretendo me aprofundar um pouco mais nessa ferramenta, achei super divertido.
-
 ### Dark Mode raiz com CSS e JavaScript
 
 <img src="./images/darkMode.gif">
