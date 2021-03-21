@@ -21,6 +21,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://youtu.be/H91DhKPjhPk">Responsividade na Prática</a> 1h30m
 - <a href="https://www.youtube.com/watch?v=BwwOu29K6mE">Transição de imagens com CSS3 e JavaScript puro</a> 17m
 - <a href="https://youtu.be/mxIhSTP6ddE">Utilizando UX para projetar uma aplicação do zero</a> 1h18min
+- <a href="https://youtu.be/Cz55Jmhfw84">Serverless com ReactJS e Next.js na Vercel</a> 33m
 - <a href="https://www.youtube.com/watch?v=GTMEuHxh8aQ">Validação de forms customizada com HTML e JavaScript</a> 1h01m
 
 ## 🎯 Gifs de algumas aulas
