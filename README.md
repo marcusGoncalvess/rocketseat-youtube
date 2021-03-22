@@ -9,6 +9,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://youtu.be/7pqp3IKyC0s">7 Tags HTML que Você Precisa Conhecer</a> 19min
 - <a href="https://youtu.be/6TEo2AxW-oQ">Aplicações React do futuro? UI declarativas, design system e frameworks</a> 1h01m
 - <a href="https://youtu.be/OyTPNNIy3pc">Criando função Debounce do Zero com JavaScript</a> 32m
+- <a href="https://youtu.be/-jXfKDYJJvo">Chat em tempo real com NodeJS + Socket.io</a> 16m
 - <a href="https://youtu.be/FsCBw9X9U84">Como usar React Context (com Hooks)</a> 21m
 - <a href="https://youtu.be/BvhYm0BOLvA">Dark Mode raiz com CSS e JavaScript</a> 17m
 - <a href="https://www.youtube.com/watch?v=HN1UjzRSdBk">Desvendando o CSS Grid na prática</a> 36m
