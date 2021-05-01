@@ -16,6 +16,7 @@ Cada pasta é referente a uma aula. 😀
 - <a href="https://www.youtube.com/watch?v=BaI8dHUthLA">Dê super poderes ao CSS com SASS</a> 1h10m
 - <a href="https://youtu.be/nhW70H9H4gU">Espaçamentos e a mágica do CSS Box Model</a> 39m
 - <a href="https://youtu.be/K5yYBJhix5A">Extraindo dados de outros sites com Puppeteer JS</a> 26m
+- <a href="https://youtu.be/ZaDpDlPr25M">Expo SDK 38.0 mudou o jogo no React Native</a> 39m
 - <a href="https://youtu.be/evBGq29wr08">Manipulando cores hexadecimais com JavaScript puro</a> 44m
 - <a href="https://www.youtube.com/watch?v=DiXbJL3iWVs">Node.js: Iniciando da teoria à prática</a> 1h33m
 - <a href="https://www.youtube.com/watch?v=ghTrp1x_1As">O que é API? REST e RESTful?</a> 34m
